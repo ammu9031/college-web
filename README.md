@@ -14,7 +14,7 @@
 🎨Styled using CSS   
 🦚Responsive Design 
 ## 🌼🏵️Visit My Github
-Amrita-it👉 https://ammu9031.github.io/college-web/ 
+Amrita-it👉 https://ammu9031.github.io/college-web/
 ## 🛠️Technologies used
 💻HTML  
 🐧CSS  
